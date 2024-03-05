@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraySpan",
+            "request": "launch",
+            "mainClass": "ArraySpan",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "CountSetsWithDivision",
+            "request": "launch",
+            "mainClass": "CountSetsWithDivision",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "CountWaysToCoverDistance",
+            "request": "launch",
+            "mainClass": "CountWaysToCoverDistance",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "CountingBits",
+            "request": "launch",
+            "mainClass": "CountingBits",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicates",
+            "request": "launch",
+            "mainClass": "FindDuplicates",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "FindElement",
+            "request": "launch",
+            "mainClass": "FindElement",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastOccurrence",
+            "request": "launch",
+            "mainClass": "FirstAndLastOccurrence",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "Inverseofanarray",
+            "request": "launch",
+            "mainClass": "Inverseofanarray",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "InvertedBarChart",
+            "request": "launch",
+            "mainClass": "InvertedBarChart",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfOneBits",
+            "request": "launch",
+            "mainClass": "NumberOfOneBits",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "ReverseBits",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SearchInA2DSortedArray",
+            "request": "launch",
+            "mainClass": "SearchInA2DSortedArray",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedSortedArray",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SetMatrixZeroes",
+            "request": "launch",
+            "mainClass": "SetMatrixZeroes",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SubsetSumCount",
+            "request": "launch",
+            "mainClass": "SubsetSumCount",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SubsetSumCount1",
+            "request": "launch",
+            "mainClass": "SubsetSumCount1",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "JAVA_DSA_613fd42b"
+        }
+    ]
+}
