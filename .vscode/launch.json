@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfWaysToStayInSamePlace",
+            "request": "launch",
+            "mainClass": "NumberOfWaysToStayInSamePlace",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "PaintingTheWalls",
             "request": "launch",
             "mainClass": "PaintingTheWalls",
