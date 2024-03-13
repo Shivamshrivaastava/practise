@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubwayRoutes",
+            "request": "launch",
+            "mainClass": "SubwayRoutes",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "NumberOfWaysToStayInSamePlace",
             "request": "launch",
             "mainClass": "NumberOfWaysToStayInSamePlace",
