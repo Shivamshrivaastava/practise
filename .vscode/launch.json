@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinElementInArray",
+            "request": "launch",
+            "mainClass": "MinElementInArray",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "MaxElementInArray",
+            "request": "launch",
+            "mainClass": "MaxElementInArray",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SundaraKandaHistory",
+            "request": "launch",
+            "mainClass": "SundaraKandaHistory",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "DragRace",
             "request": "launch",
             "mainClass": "DragRace",
