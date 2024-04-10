@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DragRace",
+            "request": "launch",
+            "mainClass": "DragRace",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "DragRaceGame",
+            "request": "launch",
+            "mainClass": "DragRaceGame",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "SubwayRoutes",
             "request": "launch",
             "mainClass": "SubwayRoutes",

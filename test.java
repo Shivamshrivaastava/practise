@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
- class Main {
+ class DragRace {
 
     public static Map<Integer, Integer> findFrequencies(int[] array) {
         Map<Integer, Integer> frequencyMap = new HashMap<>();
