@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnagramPalindrome",
+            "request": "launch",
+            "mainClass": "AnagramPalindrome",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "MinElementInArray",
             "request": "launch",
             "mainClass": "MinElementInArray",
