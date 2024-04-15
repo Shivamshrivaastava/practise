@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
+            "name": "GoodOrBadString",
+            "request": "launch",
+            "mainClass": "GoodOrBadString",
+            "projectName": "JAVA_DSA_613fd42b"
+        },
+        {
+            "type": "java",
             "name": "AnagramPalindrome",
             "request": "launch",
             "mainClass": "AnagramPalindrome",
